@@ -22,7 +22,5 @@ Site publicado: **https://leandrofurtado.github.io/realpark-1101**
 - Privacidade: sem fotos com pessoas, quadro do casal desfocado, sem o nome da filha, página fora do Google (`noindex`).
 - Link: fica `leandrofurtado.github.io/realpark-1101` (ele não quis encurtar). Para forçar a prévia nova no WhatsApp, usar `/?v=3`, `/?v=4`…
 
-## Pendências
-- As 6 cadeiras de palhinha do jantar ficam? A mesa redonda da varanda fica?
-- Vagas de garagem, lazer do condomínio, IPTU incluso, aceita pet, data de disponibilidade (nada disso está no site ainda).
-- Foto própria da fachada (a do Street View não pode ser usada).
+## Situação
+- Projeto concluído e aprovado pelo proprietário (03/11/2026). Sem pendências.
